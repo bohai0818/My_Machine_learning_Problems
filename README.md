@@ -22,6 +22,7 @@ which the data has the highest probability.
  
 
 -参考文献：
+
 - (**Very Impressive**)
 https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading10b.pdf
 
