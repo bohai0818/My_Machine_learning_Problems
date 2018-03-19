@@ -42,5 +42,5 @@ https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-st
 所以命名为判别模型(*Discriminative Model*)。 常见的判别模型有`感知机,KNN,决策树,逻辑回归,SVM,提升方法，条件随机场`
 生成模型(*Generative Model*)是指：模型`首先学习生成联合概率P(X,Y)然后求得条件概率分布P(Y|X)`。常见的生成模型主要有`朴素贝叶斯法，隐马尔科夫模型`
 
-
+- 数学理解：
 
