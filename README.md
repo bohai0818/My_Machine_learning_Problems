@@ -1,6 +1,6 @@
 ## My_Machine_learning_Problems
 
-1. 什么是极大似然估计？
+1. **什么是极大似然估计？**
 
 - 适用问题：parametric models or parametric distributions 
 
@@ -26,7 +26,9 @@ which the data has the highest probability.
 - (**Very Impressive**)
 https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading10b.pdf
 
-2. 欧几里得空间和希尔伯特空间的区别是什么？
+
+
+2. **欧几里得空间和希尔伯特空间的区别是什么？**
 
 - 直觉理解：
 
