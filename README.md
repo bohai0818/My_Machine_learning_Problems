@@ -44,3 +44,6 @@ https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-st
 
 - 数学理解：
 
+- **拓展问题**： 机器学习模型分类，这是一个非常有意义的问题。
+
+
